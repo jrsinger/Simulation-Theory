@@ -10,3 +10,17 @@ TASK 2 - JARED - UNCOMPLETED
 
 TASK 3 - JOSH - NOT STARTED
 	TASK 3 DESCRIPTION
+
+UI Components:
+	- In game : pop ups, eg: "Press E to interact"
+	- Status screen : press tab
+	- Pause menu
+	- Main menu
+	- Dialogue texts
+
+Scripts:
+	-
+	-
+
+Other:
+	- Save game
